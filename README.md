@@ -4,7 +4,8 @@ Conversion of an Antminer S9 to a Bitcoin Water Heater (Heizungswasser und Brauc
 
 ## Disclaime
 
-Ich bin kein gelernter Elektriker, kein Schlosser und auch kein Heizungsbauer. Sondern nur ein Plep, das diese Gewerke in Eigenregie und Rücksprache mit Handwerksmeistern in diesen Gewerken Mining für jeden ermöglichen möchte.
+Ich bin kein gelernter Elektriker, kein Schlosser und auch kein Heizungsbauer.
+Diese Projekt endstand unter Rücksprache mit einem Elektro- und Schlossermeister.
 
 ## Vorwort
 Diese Idee ist daraus entstanden, Bitcoin Mining für jeden, der möchte einfach und auch wirtschaftlich sinnvoll zu betreiben.
