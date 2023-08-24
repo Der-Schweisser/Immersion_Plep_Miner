@@ -19,21 +19,21 @@ Nur so werden wir meiner Meinung nach langfristig die Rechenleistung für das Ne
 ## Benötigtes Werkzeuge und Material
 
 #Werkzeug
-Schweißgerät
-Winkelschleifer
-Trennscheiben
-Standbohrmaschine
-1 Zoll Metallbohrer
-Schneidöl
-Akkuschrauber
-Steinbohrer
-Rohrzange
-Abisolierwerkzeug
-Spitzzange
-Cuttermesser
-Metallsäge
-Lötbrenner
-Lötzinn
+- Schweißgerät
+- Winkelschleifer
+- Trennscheiben
+- Standbohrmaschine
+- 1 Zoll Metallbohrer
+- Schneidöl
+- Akkuschrauber
+- Steinbohrer
+- Rohrzange
+- Abisolierwerkzeug
+- Spitzzange
+- Cuttermesser
+- Metallsäge
+- Lötbrenner
+- Lötzinn
 
 
 
