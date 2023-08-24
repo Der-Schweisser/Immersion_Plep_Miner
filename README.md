@@ -16,9 +16,11 @@ Nur so werden wir meiner Meinung nach langfristig die Rechenleistung für das Ne
 
 
 
-## Benötigtes Werkzeuge und Material
+# Benötigtes Werkzeuge und Material
 
-#Werkzeug
+
+
+## Werkzeug
 - Schweißgerät
 - Winkelschleifer
 - Trennscheiben
@@ -35,13 +37,7 @@ Nur so werden wir meiner Meinung nach langfristig die Rechenleistung für das Ne
 - Lötbrenner
 - Lötzinn
 
-
-
-
-
-
-
-# Material
+## Material
 - Drei Antminer S9/S9i/S9j mit funktionsfähigem Netzteilen
 - 1-2 Liter Ethanol / Isopropanol
 - 1x 1m Vierkantstahlrohr 180mm x 180mm x 5mm
