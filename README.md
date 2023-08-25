@@ -128,6 +128,9 @@ Wer möchte, kann nun noch das Rohr gegen Rost schützen, indem der die Außense
 ## Schritt 8 - Verrohrung
 
 Jetzt wird der Ablauf 1 zu 1 gemäß Bild nachgebaut.
+
+<img src= "img/erste Verrohrung.jpg" width = 500 >
+
 Um die Verschraubung dicht zu bekommen, immer 4 bis 5 Umdrehungen Teflonband auf das Gewinde wickeln und jede Verschraubung mit zwei Wasserpumpenzangen sehr gut anziehen.
 
 Bei der Pumpenmontage auf die Gummidichtung achten und nicht die Papierdichtungen des Pumpe und/oder der Pumpenverschraubung verwenden. 
