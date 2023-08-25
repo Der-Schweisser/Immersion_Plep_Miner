@@ -89,19 +89,20 @@ um diese näher an die Hashboards heran zu schieben.
 
 Danach werden die Controller Halterungen alle wieder auf das Alu Gehäuse geschoben , 4,5cm weiter nach hinten als vorher.
 
-## Somit sind die Miner gereinigt und die Alugehäuse für den Verbau vorbereitet nun geht es an das Heizungsrohr
-<img src= "img/Bodenplatte 170x170x5.jpg" width = 500 >
+#Somit sind die Miner gereinigt und die Alugehäuse für den Verbau vorbereitet nun geht es an das Heizungsrohr
+
 ## Schritt 5 Heizungsrohr - Bodenplatte
+<img src= "img/Bodenplatte 170x170x5.jpg" width = 400 >
 
 Schneidet die Bodenplatte auf das Maß 175mm × 175mm, um eine bessere Auflage für das Verschweißen zu haben.
 <img src= "img/Bodenplatte_zugeschnitten.jpg">
 Nehmt euch eine der abgeschraubten Blenden zur Hand und platziert diese in eine der Ecken der Bodenplatte und überträgt die Maße auf die Bodenplatte.
-<img src= "img/Bodenplatte Miner mitte Loch.jpg" width = 500 > 
+<img src= "img/Bodenplatte Miner mitte Loch.jpg" width = 400 > 
 Danach bestimmt ihr den Mittelpunkt des Miner auf eurer Bodenplatte, um das Bohrloch auf der Bodenplatte zu erhalten.
 
 
 ## Schritt 6 Heizungsrohr - Rohr
-<img src= "img/Bodenplatte Miner mitte Loch.jpg" width = 500 >
+<img src= "img/Bodenplatte Miner mitte Loch.jpg" width = 400 >
 Nehmt den Mittelpunkt eures Bohrlochs der Bodenplatte und überträgt diesen Abstand zur Seite auf das Rohr, dann geht von der Bodenplatte 82 cm nach oben und markiert euch das zweite Loch
 
 Danach werden beide Löcher gebohrt.
