@@ -62,7 +62,11 @@ Nur so werden wir meiner Meinung nach langfristig die Rechenleistung für das Ne
 <br/><br/><br/><br/>
 ## Schritt 1 - Miner Vorbereiten
 
-Die Miner auf Funktionstüchtigkeit prüfen. Miner mit PSU durch die 10 6Pin Stecker verbinden. Dann Ethernet in den Ethernet-Port stecken und mit dem Router verbinden. Anschließend den Kaltgerätestecker in das Netzteil stecken und der Miner startet.
+Die Miner auf Funktionstüchtigkeit prüfen. PSU an Miner schließen. Dann Ethernet in den Ethernet-Port stecken und mit dem Router verbinden. Anschließend den Kaltgerätestecker in das Netzteil stecken und der Miner startet.
+
+#Miner sollte für diesen Heizungstyp mit Braiins OS laufen
+
+Wenn der Zugriff per IP funktioniert in Braiins OS Consumtion auf 800w einstellen und den Lüfter Modus auf Immersionstellen. Anschließen speicher und dann einfach den Kaltgerätestecker wieder aus dem Netzteil ziehen
 
 ## Schritt 2 - Miner zerlegen
 
