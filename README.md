@@ -14,6 +14,8 @@ Nur so werden wir meiner Meinung nach langfristig die Rechenleistung für das Ne
 
 ## Wie sieht es fertig aus?
 
+<img src= "img/Betriebsbereite Heitzung.jpg" width = 400>
+
 
 
 # Benötigtes Werkzeuge und Material
@@ -105,9 +107,10 @@ Bodenplatte und überträgt die Maße auf die Bodenplatte.
 
 Danach bestimmt ihr den Mittelpunkt des Miner auf eurer Bodenplatte, um das Bohrloch auf der Bodenplatte zu erhalten.
 
-<img src= "img/1 Zoll IG.jpg" width = 400 >
+<img src= "img/1 Zoll IG .jpg" width = 400 >
 
 ## Schritt 6 Heizungsrohr - Rohr
+<img src= "img/Formstahl 1000x180x180x5.jpg" width = 400 >
 <img src= "img/Überlauf Loch 1 Zoll.jpg" width = 400 >
 Nehmt den Mittelpunkt eures Bohrlochs der Bodenplatte und überträgt diesen Abstand zur Seite auf das Rohr, dann geht von der Bodenplatte 82 cm nach oben und markiert euch das zweite Loch
 
@@ -118,6 +121,8 @@ Danach werden beide Löcher gebohrt.
 
 Zuerst platziert ihr die Bodenplatte mittig auf der Heizungsrohre Unterseite und schweißt diese fest. !!!!! Achtet auf die Platzierung der beiden Löcher!!!!!
 Wenn die Bodenplatte dicht geschweißt ist, können wir die Zoll-IG (Innengewinde) Muffen auf beiden Bohrungen mittig festschweißen.
+
+<img src= "img/Fertig geschweisst.jpg" width = 500 >
 
 Die Vier Winkelverbinder zur Wandmontage könnt ihr beliebig weit entfernt entsprechen euer Isolierung seitlich an das Rohr schweifen. In meinem Fall waren das 5 cm. Beachtet wie ihr das Rohr mit Wärmetasucher und Pumpe an der Wand Montieren möchtet, links oder rechts.
 Gegenüber der Bohrung für den Überlauf am Rohr werden nun die U-Winkelverbinder angeschweißt. Als Abstandshalter habe ich ein Netzteil genommen, um den richtigen Abstand zu bekommen.
@@ -142,7 +147,10 @@ Bei der Pumpenmontage auf die Gummidichtung achten und nicht die Papierdichtunge
 Hashboard wieder in die Miner hineinschieben und die Blenden nur auf der Oberseite wieder mit den Schrauben befestigen, so dass die Hasboards nicht herausrutschen.
 Miner hintereinander platzieren und die M2 Gewindestange durch die Nut im Gehäuse durch alle Miner durchschieben.
 Beilagscheiben und Mutter anbringen und die Drei Miner miteinander verschrauben.
+<img src= "img/Montierte Miner von oben.jpg" width = 500 >
 
+
+<img src= "img/Miner montiert liegend.jpg" width = 500 >
 
 ## Schritt 10 - Miner Verkabelung
 
