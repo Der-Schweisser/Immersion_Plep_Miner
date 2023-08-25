@@ -105,6 +105,7 @@ Bodenplatte und überträgt die Maße auf die Bodenplatte.
 
 Danach bestimmt ihr den Mittelpunkt des Miner auf eurer Bodenplatte, um das Bohrloch auf der Bodenplatte zu erhalten.
 
+<img src= "img/1 Zoll IG.jpg" width = 400 >
 
 ## Schritt 6 Heizungsrohr - Rohr
 <img src= "img/Überlauf Loch 1 Zoll.jpg" width = 400 >
