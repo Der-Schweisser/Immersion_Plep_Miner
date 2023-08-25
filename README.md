@@ -1,5 +1,5 @@
 
-# Plep-Miner
+# Immersion_Plep_Miner
 Conversion of an Antminer S9 to a Bitcoin Water Heater (Heizungswasser und Brauchwasser).
 
 ## Disclaime
