@@ -66,7 +66,10 @@ Nur so werden wir meiner Meinung nach langfristig die Rechenleistung für das Ne
 
 Die Miner auf Funktionstüchtigkeit prüfen. PSU an Miner schließen. Dann Ethernet in den Ethernet-Port stecken und mit dem Router verbinden. Anschließend den Kaltgerätestecker in das Netzteil stecken und der Miner startet.
 
-#Miner sollte für diesen Heizungstyp mit Braiins OS laufen
+### Miner sollte für diesen Heizungstyp mit Braiins OS laufen
+https://github.com/braiins
+
+
 
 Wenn der Zugriff per IP funktioniert in Braiins OS Consumtion auf 800w einstellen und den Lüfter Modus auf Immersionstellen. Anschließen speicher und dann einfach den Kaltgerätestecker wieder aus dem Netzteil ziehen
 
@@ -95,7 +98,7 @@ um diese näher an die Hashboards heran zu schieben.
 
 Danach werden die Controller Halterungen alle wieder auf das Alu Gehäuse geschoben , 4,5cm weiter nach hinten als vorher.
 
-#Somit sind die Miner gereinigt und die Alugehäuse für den Verbau vorbereitet nun geht es an das Heizungsrohr
+### Somit sind die Miner gereinigt und die Alugehäuse für den Verbau vorbereitet nun geht es an das Heizungsrohr
 
 ## Schritt 5 Heizungsrohr - Bodenplatte
 <img src= "img/Bodenplatte 170x170x5.jpg" width = 400 >
@@ -114,14 +117,20 @@ Danach bestimmt ihr den Mittelpunkt des Miner auf eurer Bodenplatte, um das Bohr
 <img src= "img/1 Zoll IG .jpg" width = 400 >
 
 ## Schritt 6 Heizungsrohr - Rohr
-<img src= "img/Formstahl 1000x180x180x5.jpg" width = 400 >
+<img src= "img/Formstahl 1000x180x180x5.jpg" width = 400 > 
+
+Nehmt den Mittelpunkt des Bohrlochs der Bodenplatte und überträgt diesen Abstand zur Seite auf das Rohr, dann geht von der Bodenplatte 82 cm nach oben und markiert euch das zweite Loch
+
 <img src= "img/Überlauf Loch 1 Zoll.jpg" width = 400 >
-Nehmt den Mittelpunkt eures Bohrlochs der Bodenplatte und überträgt diesen Abstand zur Seite auf das Rohr, dann geht von der Bodenplatte 82 cm nach oben und markiert euch das zweite Loch
 
 Danach werden beide Löcher gebohrt.
 
+<img src= "img/Loch Überlauf.jpg" width = 300 > <img src= "img/Bodenplatte Loch.jpg" width = 300 > 
+
 
 ## Schritt 7- Heizungsrohr schweißen
+
+<img src= "img/1 Zoll IG .jpg" width = 400 >
 
 Zuerst platziert ihr die Bodenplatte mittig auf der Heizungsrohre Unterseite und schweißt diese fest. !!!!! Achtet auf die Platzierung der beiden Löcher!!!!!
 Wenn die Bodenplatte dicht geschweißt ist, können wir die Zoll-IG (Innengewinde) Muffen auf beiden Bohrungen mittig festschweißen.
@@ -139,7 +148,7 @@ Wer möchte, kann nun noch das Rohr gegen Rost schützen, indem der die Außense
 
 Jetzt wird der Ablauf 1 zu 1 gemäß Bild nachgebaut.
 
-<img src= "img/erste Verrohrung.jpg" width = 500 >
+<img src= "img/erste Verrohrung.jpg" width = 600 >
 
 Um die Verschraubung dicht zu bekommen, immer 4 bis 5 Umdrehungen Teflonband auf das Gewinde wickeln und jede Verschraubung mit zwei Wasserpumpenzangen sehr gut anziehen.
 
