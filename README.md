@@ -125,7 +125,7 @@ Nehmt den Mittelpunkt des Bohrlochs der Bodenplatte und überträgt diesen Absta
 
 Danach werden beide Löcher gebohrt.
 
-<img src= "img/Loch Überlauf.jpg" width = 300 > <img src= "img/Bodenplatte Loch.jpg" width = 300 > 
+<img src= "img/Loch Überlauf.jpg" width = 200 > <img src= "img/Bodenplatte Loch.jpg" width = 300 > 
 
 
 ## Schritt 7- Heizungsrohr schweißen
@@ -177,6 +177,10 @@ Netzteil zur Seite legen, wir machen jetzt nur mit den Kabeln weiter.
 Nun müssen wir schauen, wie unterschiedlich weit wir mit 6 Pin-Kabeln pro Miner kommen da ergibt sich immer ein Versatz und den benötigten wir auch in unserem Anschlusskabel. Dann auf die entsprechende Länge abisolieren und die Kabelschuhe mit Schrumpfschlauch auf den Kabelenden festlöten.
 Das andere Kabelende lassen wir unberührt.
 
+
+<img src= "img/Verlängerungskabel 4x16.jpg" width = 400 >
+
+
 Im Anschluss die Kabelschuhe der 6Pin Kabel mit unserem Verlängerungskabel verschrauben und auch dort einen Schrumpfschlauch nicht vergessen.
 
 !!!!!!! Wichtig Farbschema Kabel !!!!!!!!!!  
@@ -193,9 +197,13 @@ Jetzt schließen wir die Ethernetkabel an den Miner an und schauen das alle 6Pin
 Schneidet euch 10 bis 12 cm lange Stücke von der M10 Gewindestange, diese werden entsprechend der Löcher in den Winkeln in der Wand mit Dübeln befestigt, um die Heizung zu halten.
 Nun am Besten zu zweit das ganze Paket nehmen und auf die 4 Gewindestangen schieben und mit Muttern fest verschrauben.
 
+<img src= "img/Miner an der Wand.jpg" width = 400 >
+
 ## Schritt 13 - Netzteile Verkabeln
 
 Steckt nun die Netzteile ohne Abdeckung an die U-Winkelhalter. Jetzt können wir die Länge der Kabel fix bestimmen. Denkt an das Farbschema der Kabel die erhöhten anschlüsse sind die SCHWAZ/GRAUEN und die Tiefen die GELB/FARBIGEN Anschlüsse.
+
+<img src= "img/Netzteil Anschluss .jpg" width = 400 >
 
 Biegt euch das Kabel so hin, dass ihr ohne Spannung im Netzteil das Kabel montieren könnt, markiert euch die Länge und schneidet das Kabel ab. Dann Schrumpfschlauch auf die Ader und Kabelschuh anlöten und verschrauben. Diesen Vorgang mit jeder Ader von jedem Netzteil / Meiner wiederholen
 
@@ -228,3 +236,9 @@ Anschluss des Wärmetauscher in ein bestehendes Heizungssystem bitte immer nur d
 
 
 BTC LN: derschweisser@walletofsatoshi.com
+
+## Bei Fragen
+
+Nostr: npub13dmtpc5wf4nl8qep07xxmd6tnmtcghrpg8cqwlwz7aar400949ls6aydvj
+
+Twitter/X: @Der_Schweisser
