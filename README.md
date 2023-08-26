@@ -91,6 +91,8 @@ Ein Beispiel Video https://twitter.com/i/status/1592820021939802115
 Wir entfernen die Frontblende wie bereits auf der Hashboardseite. Danach können wir die Halterung für den Controller aus dem Gehäuse herausziehen. Diese Controller Halterung müssen wir jetzt mit der Flex bearbeiten. Wir entfernen die hinteren 4,5 cm der Alu Feder mit der die Halterung in das Alu Gehäuse gesteckt wird
 um diese näher an die Hashboards heran zu schieben.
 
+<img src= "img/Alu Gehäuse vorbereiten.jpg" width = 400>
+
 Danach werden die Controller Halterungen alle wieder auf das Alu Gehäuse geschoben , 4,5cm weiter nach hinten als vorher.
 
 #Somit sind die Miner gereinigt und die Alugehäuse für den Verbau vorbereitet nun geht es an das Heizungsrohr
