@@ -84,6 +84,8 @@ Das Control Board kann einfach durch das Zuseiteschieb der beiden Federklemmen a
 Wir nehmen einen lösemittelbeständigen Behalter etwas größer als das Hashboard und befüllen diesen mit Ethanol. Dort geben wir jetzt das erste Hashboard hinein und reinigen es mit einem Pinsel. Einfach über die PCB sowie durch die Kühlrippen pinseln, um Staub oder andere Verschmutzungen (z.B. Fliegen) zu entfernen.
 Im Anschluss legen wir es zum Trocknen, so dass sich das Ethanol wieder verflüchtigen kann. Diesen Vorgang wiederholen wir nun für alle weiteren Hashboard- sowie Control Boards.
 
+Ein Beispiel Video https://twitter.com/i/status/1592820021939802115
+
 ## Schritt 4 - Alu Gehäuse vorbereiten
 
 Wir entfernen die Frontblende wie bereits auf der Hashboardseite. Danach können wir die Halterung für den Controller aus dem Gehäuse herausziehen. Diese Controller Halterung müssen wir jetzt mit der Flex bearbeiten. Wir entfernen die hinteren 4,5 cm der Alu Feder mit der die Halterung in das Alu Gehäuse gesteckt wird
